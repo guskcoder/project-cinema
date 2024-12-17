@@ -58,9 +58,9 @@ cinema/
 
 ## 📝 Como Usar
 
-1. Clone o repositório
-2. Abra o arquivo `index.html` em seu navegador
-3. Navegue entre as cidades clicando nos links correspondentes
+1. Navegue até a pasta do projeto
+2. Abra o arquivo `index.html` em seu navegador favorito
+3. Explore as programações de São Paulo e Rio de Janeiro através dos links na página principal
 
 ---
 
